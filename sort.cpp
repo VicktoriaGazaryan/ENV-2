@@ -12,5 +12,5 @@ void sortComplexArray(Complex* arr, int size) {
             }
         }
     }
-   #endif // SORT_H  
 }
+  #endif 
